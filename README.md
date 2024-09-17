@@ -1,9 +1,4 @@
-# AWs-Portfolio-Venkat
-
-
-
-
-
+# AWs-Portfolio-Venkat Ramana Reddy Bhoomreddy [2235375]
 
 ___
 
@@ -42,3 +37,28 @@ This is my documentation of the design & implementatio of City of Vancouver Data
 ### Step 13: Data Publishing
 ### Step14: Cost Estimation
 
+
+___
+
+# [AWS-Part2](https://venkat-ramana-reddy-bhoom-reddy.github.io/AWS-Part2-Venkat/)
+
+___
+
+# Project Description: Descriptive Analysis of 311 Service Center
+This assignment is continuation for improvement of the [AWS-Part1-Venkat](https://venkat-ramana-reddy-bhoom-reddy.github.io/AWS-Part1-Venkat/) project using the datasets taken from  website [City of Vancouver Open Data Portal](https://opendata.vancouver.ca/explore/dataset/3-1-1-service-requests/information/?disjunctive.department&disjunctive.service_request_type&disjunctive.status&disjunctive.closure_reason&disjunctive.local_area&disjunctive.channel). This project concentrates on details of protection, governance and monitoring of DAP.
+
+## Project Title: Data Protection, Governance, & Monitoring for DAP
+This project concentrates on details of protection, governance and monitoring of DAP. As these 3 are vital thing that must be ensured for all the current project. Lack of any of these three aspects would result in the project execution lacking or even failure of the project. We will see how below:
+## Project Objective:
+* Data Protection design and implementation.
+* Data Governance design and implementation.
+* Data Monitoring design and implementation.
+## Datasets
+* The Dataset used is taken from [City of Vancouver Open Data Portal](https://opendata.vancouver.ca/explore/dataset/3-1-1-service-requests/information/?disjunctive.department&disjunctive.service_request_type&disjunctive.status&disjunctive.closure_reason&disjunctive.local_area&disjunctive.channel) for the category of "3-1-1 service request metrics"<br>
+[cumulative_3-1-1-service-requests_2023_open.xlsx](https://github.com/user-attachments/files/17021197/cumulative_3-1-1-service-requests_2023_open.xlsx)
+* This dataset contains location information such as address or intersection where service was requested and the local area corresponding to the case (incident) location.
+## Methodology:
+* The process involves 3 different steps explained in detail below:
+### Step 15: Data Protection
+### Step 16: Data Governance
+### Step 17: Data Monitoring
